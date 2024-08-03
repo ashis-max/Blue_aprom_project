@@ -1,0 +1,107 @@
+.persionalise{
+    text-align: center;
+}
+.img{
+    display: flex;
+    flex-direction: row;
+   height: 75px;
+   margin-left: 2px;
+   padding: 0%;
+   border-radius: 10px;
+    
+}
+.img2{
+    border-radius: 3px;
+    height: 93px;
+}
+.meal{
+    margin-bottom: 0%;
+    font-weight: bold;
+    display: flex;
+    justify-self: start;
+}
+.meal1{
+    margin: 0%;
+    font-size: small;
+    font-weight: 100;
+}
+.btn1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    width: 358.667;
+   height: 98.77px;
+   padding: 0%;
+   border-radius: 10px;
+   border: 1px solid gray;
+}
+   .a{
+    color: black;
+    font-weight: 400;
+    margin-top: 0%;
+    padding-top: 0%;
+   }
+   .img3{
+    height: 75px;
+    border-radius: 3px;
+    height: 93px;
+    padding: 0%;
+   }
+   .btn2{
+    display: flex;
+   flex-direction: row ;
+   width: 30%;
+   margin-left: 10px;
+   margin-right: 10%;
+   height: 98.77px;
+   padding: 0%;
+   border: 1px solid gray;
+   }
+   .img1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   height: 75px;
+   margin-left: 2px;
+   padding: 0px;
+   border-radius: 10px;
+   }
+   .btnname{
+    display: flex;
+    flex-direction: row;
+    
+    width: 358.667;
+   height: 98.77px;
+   padding: 0%;
+   border-radius: 10px;}
+   .prepare{
+    padding: 0%;
+
+   }
+   .logo{
+    height: 28.75px;
+    width: 17.7px;
+   }
+    .personalise{
+        margin-bottom: 20%;
+        text-align: center;
+    }
+    .new{
+        text-align: center;
+    }
+    .ab{
+        text-align: center;
+    }
+    .navigation{
+        height: 300px;
+        margin-top: 0px;
+    }
+    .italic{
+        margin-left: 400px;
+        text-align: center;
+        width: 333px;
+        font-size:small;
+    }
+    .main1{
+        margin-top: 0px;
+    }

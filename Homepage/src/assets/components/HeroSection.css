@@ -1,0 +1,117 @@
+.middle
+{
+    font-weight: bold;
+    font-size:38px;
+    color: rgb(29, 29, 112);
+    padding-bottom: 15px;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+.anth
+{
+    /* margin: 2px 20px 30px 40px; */
+    background-image: url(C:\Users\julus\OneDrive\Desktop\Homepage\src\assets\components\desktop-splash-v3.webp);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.cta-button
+{
+    border: 2px solid  rgb(29, 29, 112);
+    border-radius:60px;
+    margin: 55px 5px 50px 1px;
+    background-color: rgb(29, 29, 112);
+    font-weight: bold;
+    color: white;
+    padding-bottom: 17px;
+    padding-top: 17px;
+    padding-left:25px;
+    padding-right: 25px;
+}
+.hero-content
+{
+    padding-bottom: 10px;
+    padding-top: 17px;
+    padding-left:550px;
+    padding-right: 0px;
+    
+    color: aliceblue;
+}
+.hero{
+    padding-bottom: 10px;
+    padding-top: 17px;
+    padding-left:0px;
+    padding-right: 0px;
+    font-size:20px;
+    background-color:rgb(29, 29, 112);
+}
+#terms
+{
+    color: white;
+}
+#redeem
+{
+    border: 2px solid  rgb(177, 97, 6);
+    border-radius:60px;
+    font-weight: bold;
+    color:white;
+    background-color: rgb(177, 97, 6);
+}
+#body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    width: 1200px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-section {
+    background-color: #0033a0; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-section h1 {
+    margin-top: 0;
+    color: #00b0ff; /* Light blue color for "New!" text */
+}
+
+.text-section button {
+    /* margin-top: 20px; */
+    padding-bottom: 17px;
+    padding-top: 17px;
+    padding-left:25px;
+    padding-right: 5px;
+    background-color: #fff;
+    color: #0033a0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.image-section {
+    flex: 1;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

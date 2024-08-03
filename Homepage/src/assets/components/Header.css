@@ -1,0 +1,93 @@
+
+.navigation
+{
+    height: 75px;
+    /* width: 100%; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: #4D5D7A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    background-image: url("pic9.png");
+    height: 76px;
+    width: 100%;
+    background-size: cover;
+}
+
+.logo:hover{
+    cursor: pointer;
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: small;
+    gap: 20px;
+}
+.items .menu:hover{
+    cursor: pointer;
+    color:rgb(50, 41, 41);
+}
+
+.items .plans:hover{
+    cursor: pointer;
+    color:rgb(50, 41, 41);
+}
+
+.items .wine:hover{
+    cursor: pointer;
+    color: rgb(50, 41, 41);
+}
+
+.items .gifts:hover{
+    cursor: pointer;
+    color:rgb(50, 41, 41);
+}
+
+.items .market:hover{
+    cursor: pointer;
+    color:rgb(50, 41, 41);
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 20px;
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin-right: 10px;
+}
+.signup{
+    background-color: #d06c0e;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
+.login
+{
+    font-size: small;
+}
+.login:hover{
+    cursor: pointer;
+    color: #0F346C;
+}
+
+.signup:hover{
+    cursor: pointer;
+}

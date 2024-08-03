@@ -1,0 +1,90 @@
+.logo1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    max-width: 677px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .15);
+    background-color: #fff;
+}
+img{
+    height: 24px;
+    width: 24px;
+    margin-top: 14px;
+    margin-right: 20px;
+}
+.enjoy{
+    margin-left: 5px;
+    margin-right: 5px;
+    align-self: center;
+    max-width: 260px;
+    font-weight: bold;
+}
+.radius{
+    background-color: rgb(28, 148, 82);
+    color: white;
+    min-width: 150x;
+    min-height: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-self: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px rgb(28, 148, 82);
+    border-radius: 20px;
+}
+.radius:hover{
+    cursor: pointer;
+}
+.radius2{
+    color: rgb(28, 148, 82);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    text-align: center;
+    align-self: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+h1{
+    text-align: center;
+    color: rgb(45, 45, 163);
+}
+.serve{
+    display: flex;
+    justify-content: center;
+}
+.serve2{
+    margin: 0 10px;
+    color: rgb(45, 45, 163);
+}
+.serve3{
+    margin-right: 40px;
+}
+.serve4{
+    margin-right: 40px;
+}
+.serve5{
+    margin-right: 40px;
+}
+.serve7{
+    margin-left: 10px;
+}
+.serve9{
+    margin: 0 10px;
+    color: rgb(45, 45, 163);
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.btn1{
+    background-color: rgb(45, 45, 163);
+    border-radius: 20px;
+    min-width: 120px;
+    color: #fff;
+}
+.btn1:hover{
+    cursor: pointer;
+}
